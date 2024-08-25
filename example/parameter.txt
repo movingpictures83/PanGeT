@@ -1,0 +1,5 @@
+Input_directory 	plugins/PanGeT/example/SAMPLE/Sample_inputfiles/nucleotide/
+Output_directory	plugins/PanGeT/example/SAMPLE/Sample_outputfiles
+Hvalue	0.42
+Evalue	1e-5
+Threads 4

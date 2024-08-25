@@ -1,0 +1,2 @@
+Prefix plugins/PanGeT/example/
+Plugin PanGeT inputfile parameter.txt outputfile none
